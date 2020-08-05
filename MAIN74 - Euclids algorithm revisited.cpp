@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#define ll long long int
 using namespace std;
 
 long long MAX=1000000007;
