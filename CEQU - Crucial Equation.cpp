@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 #define ll long long int 
+#define endl "\n"
 using namespace std;
 
 ll gcd(ll a, ll b) 
@@ -21,8 +22,8 @@ int main()
 		ll a,b,c;
 		cin>>a>>b>>c;
 		if(isPossible(a,b,c))
-			cout<<"Case "<<i<<": Yes"<<"\n";
+			cout<<"Case "<<i<<": Yes"<<endl;
 		else
-			cout<<"Case "<<i<<": No"<<"\n";				
+			cout<<"Case "<<i<<": No"<<endl;				
 	}
 }
