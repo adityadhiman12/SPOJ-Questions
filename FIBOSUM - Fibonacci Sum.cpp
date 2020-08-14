@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define MOD 1000000007
+#define endl "\n"
 #define ll long long int
 void mul(ll a[][2] , ll b[][2])
 {
